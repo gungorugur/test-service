@@ -1,0 +1,1 @@
+docker run -p 4567:4567 -d -m512M --cpus 2 docker-jdk11
